@@ -1,44 +1,60 @@
-# Gradfolio
+# **Data & AI Architect | Freelance Consultant (2025–Present)**
 
-<p align="center">
-<img src="https://snippets.jitin.xyz/assets/img/demo/grad_composite.png" alt="Composite example of the gradfolio theme"/>
-</p>
+With **9+ years of experience** architecting **high-throughput, event-driven data platforms** across **FinTech, AdTech, Healthcare, E-commerce, Logistics, and Telco**, I design and deliver **end-to-end solutions** — from **infrastructure setup** to **deployment and staff enablement**.
 
-responsive, dark-mode ready Jekyll theme designed for use as a personal website and portfolio. [Here's a live demo](https://jitinnair1.github.io/gradfolio/)
+---
 
-## Preview
+## **Technical Foundation**
 
-<details>
-<summary>Light</summary>
-<img src="https://snippets.jitin.xyz/assets/img/demo/grad_light.png" alt="Preview of gradfolio theme in light mode"/>
-</details>
-<details>
-<summary>Dark</summary>
-<img src="https://snippets.jitin.xyz/assets/img/demo/grad_dark.png" alt="Preview of gradfolio theme in dark mode"/>
-</details>
+1. **GDPR-Compliant Architectures**  
+   - Medallion & **Data Vault 2.0** architectures  
+   - Automated **lineage, auditability**, and **right-to-be-forgotten** workflows  
 
-## Features
-- Responsive
-- Respects Dark Mode preference set by the user
-- Projects Page to showcase your work/side projects
-- Easily link to your profiles on ResearchGate and ORCID
+2. **Near Real-Time ELT Pipelines**  
+   - **Spark**, **Kafka**, **dbt** across **multi-region cloud (AWS/GCP)** and **on-prem clusters**  
 
-## Installation
-* Fork the repo by using the `Use this template` button
-* Now, in your copy of the repo, [allow workflows to write to your repo](https://github.com/jitinnair1/autoCV/wiki/How-to-use-autoCV:-Detailed-Instructions#step-3-give-the-workflow-write-permissions-for-your-repo-settings---actions---general)
-* You can now modify the contents and personalise the template
+3. **Zero-Downtime Migrations**  
+   - **Terabyte-scale** migrations and upgrades for **Vertica**, **Snowflake**, and **BigQuery**  
+   - **Backward-compatible schemas** ensuring business continuity  
 
-Alternatively, you can [download the source files](https://github.com/jitinnair1/gradfolio/archive/master.zip) and [make changes locally](https://github.com/jitinnair1/gradfolio/wiki/Local-Development). 
+4. **Multi-Source Ingestion Frameworks**  
+   - Integrations from **REST/gRPC, CDC, webhooks, SAP, Segment**  
+   - Powering **SaaS microservices** and **analytics lakes**  
 
-## Documentation
+5. **AI Engineering (Certified)**  
+   - **RAG pipelines** with **LangChain** and **Vector DBs (ChromDB)**  
+   - **Multi-LLM orchestration** for **autonomous agents**, **conversational BI**, and **predictive analytics**  
 
-Check out the [Wiki](https://github.com/jitinnair1/gradfolio/wiki) for some tips on [publishing to a custom domain](https://github.com/jitinnair1/gradfolio/wiki/Publishing-your-website) or an [indicative list of things to customise before you publish](https://github.com/jitinnair1/gradfolio/wiki/Customising-your-website) 
+---
 
-### Also, check out:
+## **Freelance Practice (2025–Present)**
 
-- [autoCV](https://github.com/jitinnair1/autocv) - a LaTeX template that builds and deploys the CV using GitHub Actions, so you will always have a ready link for your latest CV
-- [Tail](https://github.com/jitinnair1/tail) - a minimal, quick-setup template for a blog
-- [snippet-book](https://github.com/jitinnair1/snippet-book) -terminal style, clean Jekyll blog theme with catppuccin colours
+Launched an independent consulting practice providing **end-to-end Data & AI Architecture** and **ETL development services** for **startups** and **mid-market firms**.  
+Engagements span:
 
+- **Discovery workshops** and **compliance roadmaps**  
+- **Production-grade implementations** under **aggressive delivery timelines**
 
-PS: If you liked the theme, do star :star: it! Thanks!
+---
+
+## **Beyond Code: Strategic Leadership**
+
+1. **Architectural Advocacy**  
+   - Defend trade-offs to **CTOs** and **boards** using **decision logs**, **risk matrices**, and **ROI models**
+
+2. **Business & Compliance Alignment**  
+   - Align solutions with **OKRs**, **SLAs**, and **regulatory mandates** (**GDPR, CCPA, DORA, HIPAA**)  
+   - Conduct **DPIAs** and deliver **governance playbooks**
+
+3. **Cross-Functional Leadership**  
+   - Lead **Data, DevOps, Product, and Security** teams from **ideation to production**  
+   - Employ **Agile** methodologies with **Architecture Decision Records (ADRs)**  
+
+4. **Mentorship & Enablement**  
+   - Mentor engineers and client **BI teams** in **modern data engineering**, **idempotency**, and **observability**
+
+---
+
+## **Professional Ethos**
+
+I thrive at the intersection of **deep technical craft**, **regulatory rigor**, **business impact**, and **entrepreneurial execution** — building systems that are not only **scalable** and **secure**, but **strategically indispensable**, whether **in-house** or as a **trusted freelance partner**.

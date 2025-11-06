@@ -1,11 +1,11 @@
 ### your site title here
 
-title: Your Name
-description: subtitle | affiliations | motto
+title: Muhammad Osama
+description: Lead/Principal Data Engineer (FinTech · AdTech · E-commerce · Telco)
 
-baseurl: /gradfolio #name of GitHub repository
+baseurl: /portfolio #name of GitHub repository
 url: "" #custom url to be used instead of GitHub repository
-email: #
+email: osama_maud56@hotmail.com #
 
 # Pagination
 paginate: 4
@@ -13,15 +13,15 @@ permalink: /blog/:year/:title/
 paginate_path: /blog/page:num/
 
 # Social media links in footer
-linkedin: "#"
-stackoverflow: "#"
-github: "#"
-researchgate: "#"
-orcid: "#"
-quora: "#"
-instagram: "#"
-facebook: "#"
-bluesky: "#"
+linkedin: "syed-muhammad-osama8b311468/"
+# stackoverflow: "#"
+# github: "#"
+# researchgate: "#"
+# orcid: "#"  
+# quora: "#"
+# instagram: "#"
+# facebook: "#"
+# bluesky: "#"
 
 # Markdown
 highlighter: rouge

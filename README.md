@@ -1,6 +1,6 @@
-# **Data & AI Architect | Freelance Consultant (2025–Present)**
+# ** Data & AI Architect | Freelance Consultant **
 
-With **9+ years of experience** architecting **high-throughput, event-driven data platforms** across **FinTech, AdTech, Healthcare, E-commerce, Logistics, and Telco**, I design and deliver **end-to-end solutions** — from **infrastructure setup** to **deployment and staff enablement**.
+With **9+ years of experience** architecting **high-throughput, event-driven data platforms** across **FinTech, AdTech, Healthcare, E-commerce, Logistics, and Telco**, I design and deliver **end-to-end solutions** , from **infrastructure setup** to **deployment and staff enablement**.
 
 ---
 

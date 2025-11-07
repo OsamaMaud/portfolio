@@ -7,15 +7,10 @@ profile:
 published: true
 ---
 
-[Gradfolio](https://github.com/jitinnair1/gradfolio){:target="_blank"} is a responsive, dark-mode ready Jekyll theme designed keeping academia in mind. The easiest way to install the theme is to fork it using GitHub. Check the README file for [instructions](https://github.com/jitinnair1/gradfolio#installation){:target="_blank"}.
+For almost ten years, I’ve been building the invisible engines behind analytics data platforms that quietly power billions of transactions, insights, and dashboards across FinTech, AdTech, Healthcare, and Telco domain. I have been designing pipelines that move terabytes of data in highh velocity environments enabling high-stakes decisions in perfect sync.  
 
-If you want to use this space to write your biography here, edit the `index.md` file. You can put a picture in, too. Rename your picture to `profile.png` and put it in the `assets/images/` folder.
+These days I’m exploring the intersection of data engineering and AI, building autonomous agents that can reason over data, not just crunch it, from vector databases to autonomous analytics assistants. And yes, I still get an unreasonable amount of joy from a perfectly executed data pipeline.
 
-The social-icons footer can be used to link profiles from GitHub, OrcID and ReasearchGate aprart form the usual Twitter, LinkedIn and Facebook. You can add your user ID in the `_config.yml` file to link your accounts.
+Whether it’s orchestrating pipelines that process billions of events or experimenting with AI agents using LangChain and RAG, I love solving hard problems with elegant solutions. When people as
 
-PS: If you liked the theme, do star it on GitHub!
-
-### Also, check out:
-
-- [autoCV](https://github.com/jitinnair1/autocv) - a LaTeX template that builds and deploys the CV using GitHub Actions, so you will always have a ready link for your latest CV
-- [Tail](https://github.com/jitinnair1/tail) - a minimal, quick-setup template for a blog
+When I’m not deep in logs or dashboards, you’ll probably find me sketching data flows on a napkin, optimizing my coffee brew ratios, or teaching someone why naming conventions matter more than people think. **Sometimes all at the same time** . 

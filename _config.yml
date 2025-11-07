@@ -28,7 +28,7 @@ highlighter: rouge
 markdown: kramdown
 
 # Tracker
-analytics:
+analytics: G-2DJB155N51
 
 # optimization -> compress.html
 compress_html:
@@ -53,6 +53,8 @@ collections:
       - project4.md
       - project5.md
       - project6.md
+      - project7.md
+      - project8.md
 
 sass:
   sass_dir: /assets/css/_sass
